@@ -171,7 +171,7 @@
     "commands.destroy.babyblueaddiction.query": "%s的蓝精灵瘾等级为%s",
     "commands.destroy.crudeoil": "已生成%s mB的原油储备于[%s, %s, %s]",
     "commands.destroy.pollution.query": "%s类型的污染等级达到了%s",
-    "commands.destroy.pollution.set": "将%s的污染等级设定为%s",
+    "commands.destroy.pollution.set": "将%s的污染等级设定为%s，一些效果可能需重新加载以显现",
 
     "death.attack.destroy.alcohol": "%1$s死于酒精中毒",
     "death.attack.destroy.chemical_burn": "%1$s死于化学灼伤",
